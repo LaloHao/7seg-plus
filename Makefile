@@ -1,6 +1,6 @@
 MAIN = main
-LIB = segment.h
-OBJ = segment.o
+LIB = segment.h 7seg.h
+OBJ = segment.o 7seg.o
 
 CC = g++
 CFLAGS=-Wall -g -I.
